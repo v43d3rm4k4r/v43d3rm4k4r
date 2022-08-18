@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=v43d3rm4k4r)
 ## 📋 Languages: ![C](https://img.shields.io/badge/C-%2300599C.svg?style=Flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=Flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=Flat&logo=kotlin&logoColor=white)
 
 ## 📚 Frameworks: ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=Flat&logo=Qt&logoColor=white)
