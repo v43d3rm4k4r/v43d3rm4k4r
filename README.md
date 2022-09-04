@@ -4,7 +4,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v43d3rm4k4r&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=v43d3rm4k4r&theme=monokai&utcOffset=3)
 
-## 📋 Languages: ![C](https://img.shields.io/badge/C-%23575757.svg?style=Flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=Flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=Flat&logo=kotlin&logoColor=white)
+## 📋 Languages: ![C](https://img.shields.io/badge/C-%23575757.svg?style=Flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=Flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=Flat&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=Flat&logo=kotlin&logoColor=white)
 
 ## 📚 Frameworks: ![Qt](https://img.shields.io/badge/Qt-%2361AB17.svg?style=Flat&logo=Qt&logoColor=white)
 
