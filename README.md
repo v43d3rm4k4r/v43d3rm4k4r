@@ -1,14 +1,15 @@
-<!-- 
+
 ```kotlin
 val v43d3rm4k4r = developer {
     about {
-        name = "Daniil Kupriyanov"
+        name    = "Daniil Kupriyanov"
+        company = OPEN_TO_JOB_OFFERS
     }
     links {
         telegram = "@vdrmkr"
     }
 }
-```-->
+```
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v43d3rm4k4r&theme=monokai)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=v43d3rm4k4r&theme=monokai)
